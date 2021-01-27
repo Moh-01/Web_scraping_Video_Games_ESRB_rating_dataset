@@ -1,4 +1,4 @@
-![](assets/images/ga_logo.png)
+![](assets/images/ga_log.png)
 
 <br>
 <br>
