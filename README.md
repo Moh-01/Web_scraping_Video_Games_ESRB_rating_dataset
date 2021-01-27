@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/bJcZLW5/ga-logo.png"  align="middle" width="800">
+![](/assets/images/ga_logo.png)
 
 <br>
 <br>
