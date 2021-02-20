@@ -101,4 +101,4 @@
 |E 10+      | Everyone 10+    |
 |T          | Teen            |
 |M          | Mature          |
-|A          | Adult           |
+|A          | Adult            |
