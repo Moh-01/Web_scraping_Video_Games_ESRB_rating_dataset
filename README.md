@@ -24,8 +24,8 @@
 
 # **Overview**
 - This data contains the name for `1895 games` with `34 of ESRB rating content` as features for each game.<br>
-- A test data with 500 games (Observation) labeled.<br>
-- A single data point is represented as a single number from `0-3` for `Console` and a `binary vector` for the `features of ESRB content`.
+- Also a test data with 500 games (Obserrvation) labeld.<br>
+- A single datapoint is represented as a single number form `0-3` for `Console` and a `binary vector` for the `features of ESRB content`.
 
 # **What is about?**
 
